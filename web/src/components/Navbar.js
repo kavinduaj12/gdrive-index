@@ -5,8 +5,8 @@ export default function Navbar() {
     <nav>
       <div className="nav-content">
         <h1>Gdrive index</h1>
-        <a className="nav-link-github" target="_blank" rel="noopener noreferrer" href="https://github.com/patheticGeek/gdrive-index">
-          <ion-icon name="logo-github" />
+        <a className="nav-link-github" target="_blank" rel="noopener noreferrer" href="https://t.me/lkhitec">
+          <ion-icon name="logo-telegram" />
         </a>
       </div>
     </nav>
