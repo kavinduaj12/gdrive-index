@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patheticGeek/gdrive-index.git"
+    "url": "git+https://github.com/kavinduaj12/gdrive-index.git"
   },
   "keywords": [
     "gdrive",
@@ -24,9 +24,9 @@
   "author": "pathetic_geek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/patheticGeek/gdrive-index/issues"
+    "url": "https://github.com/kavinduaj12/gdrive-index/issues"
   },
-  "homepage": "https://github.com/patheticGeek/gdrive-index#readme",
+  "homepage": "https://github.com/kavinduaj12/gdrive-index#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^8.2.0",
